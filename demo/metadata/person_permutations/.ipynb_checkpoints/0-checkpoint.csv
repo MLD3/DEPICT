@@ -1,0 +1,201 @@
+,image_id,file_name,text,person,bottle,cup,bowl,chair,couch,bed,dining table,tv,laptop,remote,cell phone,oven,sink,book,permuted_text
+0,172232,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000172232.jpg,"1 bottle, 2 chair, 1 refrigerator",0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,"1 bottle, 2 chair"
+1,532381,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000532381.jpg,1 dog,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1 person
+2,581873,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000581873.jpg,1 dog,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1 person
+3,48711,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000048711.jpg,"1 person, 1 potted plant, 1 tv, 1 remote, 1 clock, 2 vase",1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,"1 tv, 1 remote"
+4,313718,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000313718.jpg,"1 person, 2 car, 2 bus, 1 horse",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1 person
+5,244633,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000244633.jpg,"2 bottle, 1 cup, 1 chair, 1 laptop",0,2,1,0,1,0,0,0,0,1,0,0,0,0,0,"2 bottle, 1 cup, 1 chair, 1 laptop"
+6,253785,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000253785.jpg,"1 dog, 1 cup, 1 chair",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,"1 cup, 1 chair"
+7,178229,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000178229.jpg,"1 cat, 1 couch, 2 remote",0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,"1 person, 1 couch, 2 remote"
+8,150512,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000150512.jpg,"1 person, 1 spoon, 1 bowl, 1 oven, 1 sink",1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,"1 bowl, 1 oven, 1 sink"
+9,151609,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000151609.jpg,"1 cat, 1 tv, 1 book",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,"1 tv, 1 book"
+10,541109,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000541109.jpg,"1 cat, 1 umbrella, 3 book",0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,"1 person, 3 book"
+11,58443,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000058443.jpg,"1 dog, 1 chair",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"1 person, 1 chair"
+12,361282,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000361282.jpg,"1 bottle, 2 cup, 1 clock, 2 toothbrush",0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,"1 person, 1 bottle, 2 cup"
+13,256835,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000256835.jpg,"1 bench, 1 refrigerator",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1 person
+14,20046,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000020046.jpg,"1 person, 1 handbag, 2 chair, 1 potted plant, 1 bed, 1 laptop, 4 book",1,0,0,0,2,0,1,0,0,1,0,0,0,0,4,"1 person, 2 chair, 1 bed, 1 laptop, 4 book"
+15,346702,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000346702.jpg,"1 microwave, 1 oven, 1 refrigerator",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1 oven
+16,526962,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000526962.jpg,"1 cat, 1 banana",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+17,473678,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000473678.jpg,"1 person, 1 dining table, 1 book, 1 scissors",1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,"1 person, 1 dining table, 1 book"
+18,93201,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000093201.jpg,1 dog,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+19,524649,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000524649.jpg,"1 person, 6 bottle, 1 apple, 3 orange, 1 refrigerator",1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,6 bottle
+20,259391,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000259391.jpg,"3 couch, 1 tv, 2 vase",0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,"1 person, 3 couch, 1 tv"
+21,353206,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000353206.jpg,"1 laptop, 1 mouse",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1 laptop
+22,555461,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000555461.jpg,"1 person, 1 chair, 1 laptop, 1 book",1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,"1 chair, 1 laptop, 1 book"
+23,531076,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000531076.jpg,1 cat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+24,508656,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000508656.jpg,"1 person, 2 bowl, 2 chair, 1 couch, 1 tv, 1 book, 4 clock",1,0,0,2,2,1,0,0,1,0,0,0,0,0,1,"2 bowl, 2 chair, 1 couch, 1 tv, 1 book"
+25,127620,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000127620.jpg,"1 person, 2 umbrella, 2 couch, 1 tv",1,0,0,0,0,2,0,0,1,0,0,0,0,0,0,"2 couch, 1 tv"
+26,309774,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000309774.jpg,1 motorcycle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1 person
+27,497528,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000497528.jpg,"1 bottle, 3 cup, 3 knife, 2 spoon, 1 oven, 1 refrigerator",0,1,3,0,0,0,0,0,0,0,0,0,1,0,0,"1 bottle, 3 cup, 1 oven"
+28,130456,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000130456.jpg,"1 chair, 1 couch, 1 laptop, 3 remote",0,0,0,0,1,1,0,0,0,1,3,0,0,0,0,"1 chair, 1 couch, 1 laptop, 3 remote"
+29,45976,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000045976.jpg,"1 person, 1 sink",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1 sink
+30,15474,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000015474.jpg,"1 cat, 1 oven",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1 oven
+31,453601,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000453601.jpg,"1 potted plant, 1 microwave, 1 refrigerator",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+32,159453,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000159453.jpg,"1 cat, 1 couch, 1 laptop, 1 book",0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,"1 couch, 1 laptop, 1 book"
+33,216437,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000216437.jpg,"1 cup, 1 tv, 1 laptop, 2 mouse, 2 keyboard, 1 cell phone",0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,"1 cup, 1 tv, 1 laptop, 1 cell phone"
+34,343503,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000343503.jpg,"1 chair, 1 potted plant, 1 tv, 1 laptop, 1 mouse, 1 keyboard",0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,"1 person, 1 chair, 1 tv, 1 laptop"
+35,429754,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000429754.jpg,"1 dining table, 2 scissors",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"1 person, 1 dining table"
+36,109290,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000109290.jpg,"1 person, 3 chair, 1 dining table",1,0,0,0,3,0,0,1,0,0,0,0,0,0,0,"1 person, 3 chair, 1 dining table"
+37,194420,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000194420.jpg,"1 dog, 1 couch, 1 tv",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,"1 person, 1 couch, 1 tv"
+38,555811,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000555811.jpg,1 cat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1 person
+39,252679,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000252679.jpg,"1 cat, 1 cup, 1 chair, 2 tv, 1 laptop, 2 mouse, 1 keyboard, 3 book",0,0,1,0,1,0,0,0,2,1,0,0,0,0,3,"1 cup, 1 chair, 2 tv, 1 laptop, 3 book"
+40,97844,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000097844.jpg,"1 tv, 1 laptop, 1 mouse, 1 keyboard, 1 cell phone",0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,"1 person, 1 tv, 1 laptop, 1 cell phone"
+41,71371,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000071371.jpg,"2 cup, 2 tv, 1 laptop, 1 scissors",0,0,2,0,0,0,0,0,2,1,0,0,0,0,0,"1 person, 2 cup, 2 tv, 1 laptop"
+42,567754,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000567754.jpg,"1 cat, 2 bottle, 1 sink",0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,"2 bottle, 1 sink"
+43,521967,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000521967.jpg,1 teddy bear,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+44,174890,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000174890.jpg,1 traffic light,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+45,348816,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000348816.jpg,"1 dog, 1 suitcase, 1 bed",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"1 person, 1 bed"
+46,180696,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000180696.jpg,"1 person, 1 tie",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1 person
+47,192862,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000192862.jpg,1 teddy bear,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+48,207740,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000207740.jpg,"1 cat, 1 suitcase, 1 bed",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"1 person, 1 bed"
+49,579276,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000579276.jpg,1 oven,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1 oven
+50,264618,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000264618.jpg,"5 cup, 1 toaster",0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,5 cup
+51,512416,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000512416.jpg,"1 person, 2 bowl, 1 cake, 1 microwave, 2 oven, 1 refrigerator",1,0,0,2,0,0,0,0,0,0,0,0,2,0,0,"2 bowl, 2 oven"
+52,306080,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000306080.jpg,"1 cup, 1 spoon, 2 apple, 1 dining table, 1 vase",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,"1 person, 1 cup, 1 dining table"
+53,351159,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000351159.jpg,"1 bottle, 1 cup, 1 tv, 1 mouse, 1 keyboard, 5 book",0,1,1,0,0,0,0,0,1,0,0,0,0,0,5,"1 bottle, 1 cup, 1 tv, 5 book"
+54,92559,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000092559.jpg,"1 person, 1 cup, 7 knife, 1 spoon, 2 bowl",1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"1 person, 1 cup, 2 bowl"
+55,40842,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000040842.jpg,"1 cat, 1 tv, 1 laptop",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,"1 person, 1 tv, 1 laptop"
+56,289388,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000289388.jpg,"1 person, 1 toilet",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+57,313914,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000313914.jpg,"1 person, 1 bed, 1 remote, 1 cell phone",1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,"1 bed, 1 remote, 1 cell phone"
+58,520524,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000520524.jpg,"1 bicycle, 1 car, 1 motorcycle",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+59,538380,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000538380.jpg,"1 person, 1 toothbrush",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1 person
+60,167874,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000167874.jpg,1 cat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1 person
+61,208082,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000208082.jpg,"1 person, 1 bed, 2 teddy bear",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1 bed
+62,233660,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000233660.jpg,"5 bicycle, 1 car, 2 dog",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1 person
+63,531751,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000531751.jpg,"1 person, 1 teddy bear",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1 person
+64,162031,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000162031.jpg,"1 cat, 1 bed",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1 bed
+65,8721,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000008721.jpg,"1 tv, 1 laptop, 1 mouse, 2 keyboard, 1 book",0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,"1 person, 1 tv, 1 laptop, 1 book"
+66,507166,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000507166.jpg,"1 person, 1 tie",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1 person
+67,57979,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000057979.jpg,"1 parking meter, 1 potted plant, 1 vase",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+68,435316,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000435316.jpg,"1 cat, 1 sink",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"1 person, 1 sink"
+69,132646,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000132646.jpg,"1 cat, 1 bottle",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"1 person, 1 bottle"
+70,280760,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000280760.jpg,"1 person, 1 chair, 1 bed",1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,"1 chair, 1 bed"
+71,270243,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000270243.jpg,"1 tv, 1 laptop, 1 mouse, 1 keyboard",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,"1 person, 1 tv, 1 laptop"
+72,317587,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000317587.jpg,"1 person, 1 cell phone",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"1 person, 1 cell phone"
+73,909,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000000909.jpg,"1 bottle, 1 cup, 2 tv, 1 keyboard",0,1,1,0,0,0,0,0,2,0,0,0,0,0,0,"1 bottle, 1 cup, 2 tv"
+74,314556,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000314556.jpg,"2 toilet, 2 sink",0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2 sink
+75,408730,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000408730.jpg,"1 cup, 5 chair, 2 couch, 1 potted plant, 1 dining table, 2 book, 2 vase",0,0,1,0,5,2,0,1,0,0,0,0,0,0,2,"1 cup, 5 chair, 2 couch, 1 dining table, 2 book"
+76,104470,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000104470.jpg,"1 person, 4 banana, 2 sandwich, 1 potted plant",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1 person
+77,91006,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000091006.jpg,"2 cat, 1 backpack, 1 bowl, 1 bed",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"1 person, 1 bowl, 1 bed"
+78,19131,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000019131.jpg,"1 cat, 1 handbag, 1 suitcase, 1 chair, 1 microwave",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1 chair
+79,43425,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000043425.jpg,1 dog,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1 person
+80,41753,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000041753.jpg,"1 person, 1 cup, 2 chair, 1 tv, 2 mouse, 1 remote, 1 keyboard, 1 teddy bear",1,0,1,0,2,0,0,0,1,0,1,0,0,0,0,"1 cup, 2 chair, 1 tv, 1 remote"
+81,43893,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000043893.jpg,"1 person, 1 chair, 1 bed, 1 tv, 1 remote",1,0,0,0,1,0,1,0,1,0,1,0,0,0,0,"1 person, 1 chair, 1 bed, 1 tv, 1 remote"
+82,271875,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000271875.jpg,"1 cat, 1 tv, 2 book",0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,"1 person, 1 tv, 2 book"
+83,352623,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000352623.jpg,"1 person, 1 toilet",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1 person
+84,381908,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000381908.jpg,"1 person, 10 bottle, 1 refrigerator",1,10,0,0,0,0,0,0,0,0,0,0,0,0,0,"1 person, 10 bottle"
+85,124057,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000124057.jpg,"4 wine glass, 1 dining table",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1 dining table
+86,478636,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000478636.jpg,"1 person, 1 car, 2 truck, 2 horse",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+87,541029,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000541029.jpg,"1 bottle, 2 chair, 1 dining table, 1 laptop",0,1,0,0,2,0,0,1,0,1,0,0,0,0,0,"1 person, 1 bottle, 2 chair, 1 dining table, 1 laptop"
+88,123923,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000123923.jpg,"1 person, 1 elephant",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+89,236031,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000236031.jpg,"2 cat, 1 dog, 1 book",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1 book
+90,12700,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000012700.jpg,"1 person, 3 bottle, 3 chair, 2 couch, 3 potted plant, 15 book, 1 clock, 2 vase",1,3,0,0,3,2,0,0,0,0,0,0,0,0,15,"3 bottle, 3 chair, 2 couch, 15 book"
+91,127418,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000127418.jpg,"1 cup, 1 mouse, 1 keyboard",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1 cup
+92,12991,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000012991.jpg,"1 person, 1 fork, 2 knife, 1 laptop",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"1 person, 1 laptop"
+93,486361,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000486361.jpg,"1 cat, 1 potted plant, 1 tv",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1 tv
+94,422918,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000422918.jpg,"1 person, 1 bottle, 1 couch, 1 laptop",1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,"1 person, 1 bottle, 1 couch, 1 laptop"
+95,311961,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000311961.jpg,"1 dog, 1 bed",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"1 person, 1 bed"
+96,327813,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000327813.jpg,"1 chair, 2 couch, 1 potted plant, 2 book, 1 vase",0,0,0,0,1,2,0,0,0,0,0,0,0,0,2,"1 chair, 2 couch, 2 book"
+97,466624,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000466624.jpg,"3 bottle, 1 cup, 1 sink, 1 toothbrush",0,3,1,0,0,0,0,0,0,0,0,0,0,1,0,"3 bottle, 1 cup, 1 sink"
+98,458073,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000458073.jpg,"3 chair, 3 book, 2 clock",0,0,0,0,3,0,0,0,0,0,0,0,0,0,3,"3 chair, 3 book"
+99,150641,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000150641.jpg,1 train,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1 person
+100,145668,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000145668.jpg,"1 cat, 1 chair, 1 book",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,"1 chair, 1 book"
+101,518324,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000518324.jpg,"1 cat, 2 bottle, 1 cup, 1 chair, 1 couch, 1 potted plant, 1 laptop, 1 mouse, 1 remote, 1 cell phone, 1 book, 1 scissors",0,2,1,0,1,1,0,0,0,1,1,1,0,0,1,"2 bottle, 1 cup, 1 chair, 1 couch, 1 laptop, 1 remote, 1 cell phone, 1 book"
+102,329895,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000329895.jpg,4 banana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+103,453164,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000453164.jpg,1 teddy bear,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+104,63143,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000063143.jpg,"1 bottle, 1 tv, 2 mouse, 1 keyboard",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,"1 person, 1 bottle, 1 tv"
+105,299067,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000299067.jpg,"1 chair, 1 couch, 1 potted plant, 1 dining table, 1 tv, 1 vase",0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,"1 chair, 1 couch, 1 dining table, 1 tv"
+106,307989,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000307989.jpg,"2 cat, 1 sports ball, 2 bowl",0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2 bowl
+107,101816,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000101816.jpg,"1 person, 1 bottle, 1 toilet, 1 sink",1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,"1 bottle, 1 sink"
+108,378499,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000378499.jpg,"1 person, 1 toilet",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+109,410583,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000410583.jpg,"1 person, 1 toothbrush",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+110,228260,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000228260.jpg,"3 keyboard, 1 clock",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+111,399594,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000399594.jpg,"2 dog, 1 backpack, 1 bed",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1 bed
+112,486247,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000486247.jpg,"1 person, 1 horse",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+113,446626,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000446626.jpg,"1 cat, 1 couch",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1 couch
+114,23247,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000023247.jpg,"1 person, 4 bottle, 1 refrigerator",1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,4 bottle
+115,492816,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000492816.jpg,"1 cat, 1 chair, 2 dining table, 1 vase",0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,"1 chair, 2 dining table"
+116,308098,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000308098.jpg,"1 dog, 1 carrot",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+117,78342,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000078342.jpg,"1 cat, 1 mouse, 1 keyboard",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+118,410272,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000410272.jpg,"1 person, 1 knife, 1 bowl, 3 broccoli, 5 carrot, 1 sink",1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,"1 person, 1 bowl, 1 sink"
+119,10107,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000010107.jpg,1 dog,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+120,426841,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000426841.jpg,"1 person, 3 chair, 1 dining table, 1 clock",1,0,0,0,3,0,0,1,0,0,0,0,0,0,0,"3 chair, 1 dining table"
+121,453065,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000453065.jpg,"1 person, 1 couch, 1 tv, 1 vase",1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,"1 couch, 1 tv"
+122,163813,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000163813.jpg,"1 dog, 1 bed",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1 bed
+123,290563,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000290563.jpg,"1 cat, 1 laptop",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1 laptop
+124,260486,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000260486.jpg,"1 cup, 1 bowl, 1 tv, 1 mouse, 1 keyboard",0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,"1 cup, 1 bowl, 1 tv"
+125,55389,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000055389.jpg,"1 person, 1 teddy bear",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1 person
+126,330756,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000330756.jpg,1 scissors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1 person
+127,45197,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000045197.jpg,"1 cat, 1 bed, 1 laptop",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,"1 bed, 1 laptop"
+128,227568,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000227568.jpg,1 cell phone,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1 cell phone
+129,463989,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000463989.jpg,"1 person, 1 bottle, 1 couch, 2 remote",1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,"1 bottle, 1 couch, 2 remote"
+130,179322,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000179322.jpg,"1 person, 4 cup, 1 bowl, 1 microwave",1,0,4,1,0,0,0,0,0,0,0,0,0,0,0,"4 cup, 1 bowl"
+131,332914,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000332914.jpg,"1 person, 2 bed, 1 remote",1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,"2 bed, 1 remote"
+132,182516,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000182516.jpg,"1 person, 1 bed, 1 laptop",1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,"1 person, 1 bed, 1 laptop"
+133,71792,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000071792.jpg,"1 cat, 1 bowl",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"1 person, 1 bowl"
+134,318646,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000318646.jpg,"1 person, 1 bed, 1 tv, 12 book",1,0,0,0,0,0,1,0,1,0,0,0,0,0,12,"1 bed, 1 tv, 12 book"
+135,191981,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000191981.jpg,"1 person, 1 skateboard",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+136,540538,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000540538.jpg,1 dog,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1 person
+137,238799,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000238799.jpg,"1 person, 1 bed, 1 cell phone",1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,"1 bed, 1 cell phone"
+138,146988,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000146988.jpg,"1 person, 4 bottle, 1 cup, 1 dining table, 1 tv, 3 remote",1,4,1,0,0,0,0,1,1,0,3,0,0,0,0,"4 bottle, 1 cup, 1 dining table, 1 tv, 3 remote"
+139,574697,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000574697.jpg,"3 chair, 1 laptop, 1 remote",0,0,0,0,3,0,0,0,0,1,1,0,0,0,0,"3 chair, 1 laptop, 1 remote"
+140,499541,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000499541.jpg,"1 cat, 1 bottle, 1 tv",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,"1 bottle, 1 tv"
+141,1895,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000001895.jpg,"1 person, 1 cup, 1 chair, 1 laptop",1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,"1 cup, 1 chair, 1 laptop"
+142,5038,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000005038.jpg,"1 person, 1 bottle, 1 bed",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"1 bottle, 1 bed"
+143,557780,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000557780.jpg,"1 dog, 1 sandwich, 1 hot dog, 1 bed",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"1 person, 1 bed"
+144,315156,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000315156.jpg,"1 cat, 1 backpack",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+145,209903,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000209903.jpg,"1 cat, 2 couch",0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2 couch
+146,39548,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000039548.jpg,"1 person, 6 bottle, 3 cup, 2 knife, 4 spoon, 1 bowl, 1 chair, 1 dining table, 1 oven, 1 sink, 1 refrigerator",1,6,3,1,1,0,0,1,0,0,0,0,1,1,0,"1 person, 6 bottle, 3 cup, 1 bowl, 1 chair, 1 dining table, 1 oven, 1 sink"
+147,222659,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000222659.jpg,"1 bench, 1 cat, 1 potted plant",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1 person
+148,252177,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000252177.jpg,"1 bench, 6 chair, 1 clock",0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,6 chair
+149,347300,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000347300.jpg,"1 person, 1 bottle, 2 cup, 4 chair, 1 couch, 1 dining table, 1 tv, 1 laptop, 2 remote, 1 cell phone, 1 microwave, 1 refrigerator",1,1,2,0,4,1,0,1,1,1,2,1,0,0,0,"1 bottle, 2 cup, 4 chair, 1 couch, 1 dining table, 1 tv, 1 laptop, 2 remote, 1 cell phone"
+150,343083,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000343083.jpg,4 bicycle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1 person
+151,483028,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000483028.jpg,"1 couch, 1 bed",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,"1 couch, 1 bed"
+152,70411,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000070411.jpg,"1 cat, 1 suitcase, 1 bed",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"1 person, 1 bed"
+153,498665,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000498665.jpg,"1 laptop, 1 remote",0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,"1 laptop, 1 remote"
+154,447678,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000447678.jpg,"1 person, 1 bowl, 1 chair, 1 couch, 1 tv, 3 remote, 1 microwave, 6 book, 1 clock",1,0,0,1,1,1,0,0,1,0,3,0,0,0,6,"1 bowl, 1 chair, 1 couch, 1 tv, 3 remote, 6 book"
+155,495607,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000495607.jpg,2 cat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+156,214191,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000214191.jpg,"1 person, 1 toilet, 1 sink",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1 sink
+157,336762,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000336762.jpg,"1 cup, 1 sandwich, 1 laptop",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,"1 cup, 1 laptop"
+158,86168,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000086168.jpg,1 cat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+159,173345,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000173345.jpg,2 cat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+160,354424,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000354424.jpg,"1 cat, 1 bed",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"1 person, 1 bed"
+161,246356,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000246356.jpg,"2 cat, 2 bottle, 1 refrigerator",0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2 bottle
+162,29706,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000029706.jpg,"1 person, 7 bottle, 1 refrigerator",1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,7 bottle
+163,57777,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000057777.jpg,"3 cat, 1 bowl",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1 bowl
+164,39589,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000039589.jpg,"1 cat, 2 donut, 3 book",0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3 book
+165,379165,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000379165.jpg,"1 cat, 1 mouse",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+166,132165,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000132165.jpg,"2 dog, 1 couch",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1 couch
+167,472617,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000472617.jpg,"3 bottle, 10 chair, 1 dining table, 11 book, 1 clock",0,3,0,0,10,0,0,1,0,0,0,0,0,0,11,"1 person, 3 bottle, 10 chair, 1 dining table, 11 book"
+168,544472,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000544472.jpg,1 pizza,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1 person
+169,544522,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000544522.jpg,"1 person, 1 cup, 2 bowl, 4 orange, 1 sink, 1 clock",1,0,1,2,0,0,0,0,0,0,0,0,0,1,0,"1 cup, 2 bowl, 1 sink"
+170,462501,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000462501.jpg,"1 person, 2 bottle, 1 cup, 1 toilet, 1 sink, 1 clock",1,2,1,0,0,0,0,0,0,0,0,0,0,1,0,"1 person, 2 bottle, 1 cup, 1 sink"
+171,13158,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000013158.jpg,1 cat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+172,341696,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000341696.jpg,"1 person, 1 tie, 1 chair, 1 bed, 1 tv",1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,"1 chair, 1 bed, 1 tv"
+173,168832,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000168832.jpg,"6 chair, 1 couch, 3 potted plant, 1 dining table, 1 microwave, 1 oven, 1 sink, 7 book",0,0,0,0,6,1,0,1,0,0,0,0,1,1,7,"6 chair, 1 couch, 1 dining table, 1 oven, 1 sink, 7 book"
+174,496100,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000496100.jpg,"1 knife, 2 apple",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+175,275644,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000275644.jpg,"1 laptop, 1 keyboard, 1 book",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,"1 laptop, 1 book"
+176,230867,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000230867.jpg,"1 cat, 1 laptop",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1 laptop
+177,553736,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000553736.jpg,"1 person, 4 bottle, 2 wine glass, 14 cup, 1 knife, 5 bowl, 1 oven, 1 sink, 2 book",1,4,14,5,0,0,0,0,0,0,0,0,1,1,2,"1 person, 4 bottle, 14 cup, 5 bowl, 1 oven, 1 sink, 2 book"
+178,474119,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000474119.jpg,"1 person, 1 cup, 1 toilet",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1 cup
+179,320180,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000320180.jpg,"1 person, 2 couch, 1 laptop",1,0,0,0,0,2,0,0,0,1,0,0,0,0,0,"1 person, 2 couch, 1 laptop"
+180,439117,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000439117.jpg,"1 person, 1 car, 1 wine glass, 1 couch, 1 tv, 1 teddy bear",1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,"1 couch, 1 tv"
+181,564830,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000564830.jpg,"1 person, 1 tv, 8 book",1,0,0,0,0,0,0,0,1,0,0,0,0,0,8,"1 person, 1 tv, 8 book"
+182,238602,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000238602.jpg,1 cat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+183,53121,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000053121.jpg,"1 person, 1 bed",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1 bed
+184,167827,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000167827.jpg,"1 person, 1 toothbrush",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+185,392186,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000392186.jpg,"1 dog, 1 bed, 1 book",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,"1 bed, 1 book"
+186,5142,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000005142.jpg,"1 cat, 1 suitcase, 1 chair, 1 bed",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,"1 chair, 1 bed"
+187,572584,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000572584.jpg,"1 cat, 1 bottle",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1 bottle
+188,425914,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000425914.jpg,"1 cat, 1 couch",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"1 person, 1 couch"
+189,533988,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000533988.jpg,"1 person, 1 bed",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"1 person, 1 bed"
+190,397212,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000397212.jpg,2 cat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+191,54717,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000054717.jpg,"2 cat, 1 dining table",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"1 person, 1 dining table"
+192,354493,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000354493.jpg,1 cat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+193,263612,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000263612.jpg,1 dog,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+194,528788,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000528788.jpg,"1 person, 1 bottle, 1 toothbrush",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1 bottle
+195,186822,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000186822.jpg,"1 person, 1 horse, 1 bottle, 2 cup, 1 toilet, 1 sink, 2 toothbrush",1,1,2,0,0,0,0,0,0,0,0,0,0,1,0,"1 bottle, 2 cup, 1 sink"
+196,260791,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000260791.jpg,"1 person, 1 handbag, 1 tie, 1 couch, 1 tv, 2 book",1,0,0,0,0,1,0,0,1,0,0,0,0,0,2,"1 couch, 1 tv, 2 book"
+197,337068,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000337068.jpg,"1 backpack, 1 bottle, 4 chair, 1 potted plant, 1 dining table, 1 laptop, 3 book, 1 vase",0,1,0,0,4,0,0,1,0,1,0,0,0,0,3,"1 bottle, 4 chair, 1 dining table, 1 laptop, 3 book"
+198,557678,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000557678.jpg,"3 tv, 1 mouse, 2 keyboard",0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,3 tv
+199,466664,/home/gkondas/diffusion/greg/allCoco/images/train2017/000000466664.jpg,"1 backpack, 2 handbag, 5 bottle, 1 dining table, 2 remote, 2 cell phone, 3 book, 1 clock, 1 scissors, 1 toothbrush",0,5,0,0,0,0,0,1,0,0,2,2,0,0,3,"1 person, 5 bottle, 1 dining table, 2 remote, 2 cell phone, 3 book"

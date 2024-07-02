@@ -1,0 +1,62 @@
+---
+primary_concept_model_path: "model_checkpoints/coco/primary_concept_model.tar"
+coco_mixed_model_path: "/home/gkondas/diffusion/greg/allClass/combo/all_scenes/b128_lr0.1_p0.8_wd0.0001/checkpoints/epoch=14.checkpoint.pth.tar"
+coco_primary_datasets: "datasets/coco_primary_datasets"
+coco_primary_gradcam_masks_parent: "baselines/coco/primary/gradcam/"
+coco_unconstrained_gradcam_masks_parent: "baselines/coco/unconstrained/gradcam/"
+coco_mixed_gradcam_masks_parent: "baselines/coco/mixed/gradcam/"
+coco_obj_masks: "/data2/diffusion/greg/allCoco/masks"
+lime_coco_primary_masks: "baselines/coco/primary/lime"
+lime_coco_unconstrained_masks: "baselines/coco/unconstrained/lime"
+lime_coco_mixed_masks: "baselines/coco/mixed/lime"
+lime_coco_primary_model_results: "results/coco/primary/lime/"
+lime_coco_mixed_model_results: "results/coco/mixed/lime/"
+coco_lime_mixed_masks_parent: "baselines/coco/mixed/lime"
+coco_mixed_lime_eval_positive_parent: "results/coco/mixed/lime/positives"
+coco_mixed_lime_eval_negative_parent: "results/coco/mixed/lime/negatives"
+coco_unconstrained_lime_eval_positive_parent: "results/coco/unconstrained/lime/positives"
+coco_unconstrained_lime_eval_negative_parent: "results/coco/unconstrained/lime/negatives"
+coco_primary_gradcam_eval_positive_parent: "results/coco/primary/gradcam/positives"
+coco_primary_gradcam_eval_negative_parent: "results/coco/primary/gradcam/negatives"
+coco_concepts: ['person','bottle','cup','bowl','chair','couch','bed','dining table','tv', 'laptop','remote','cell phone','oven','sink','book']
+DEPICT_coco_primary_model_results: "results/coco/primary/DEPICT"
+DEPICT_coco_mixed_model_results: "results/coco/mixed/DEPICT"
+GradCAM_coco_primary_model_results: "results/coco/primary/gradcam"
+GradCAM_coco_mixed_model_results: "results/coco/mixed/gradcam"
+GradCAM_coco_unconstrained_model_results: "results/coco/unconstrained/gradcam"
+GradCAM_coco_mask_gen_batch_size: 64
+coco_primary_oracle: "results/coco/primary/oracle.csv"
+coco_primary_oracle_sigmoid: "results/coco/primary_sigmoid/oracle"
+coco_mixed_oracle: "results/coco/mixed/oracle.csv"
+CBM_coco_primary_model_results: "results/coco/primary/cbm"
+CBM_coco_mixed_model_results: "results/coco/mixed/cbm"
+coco_primary_thresholds: "results/coco/primary/thresholds/"
+coco_mixed_thresholds: "results/coco/mixed/thresholds/"
+coco_primary_scene: "home or hotel"
+coco_mixed_scenes: ['shopping and dining',
+                    'workplace (office building, factory, lab, etc.)', 
+                    'home or hotel',
+                    'transportation (vehicle interiors, stations, etc.)',
+                    'sports and leisure',
+                    'cultural (art, education, religion, millitary, law, politics, etc.)']
+coco_primary_concept_idxs: [0, 39, 41, 45, 56, 57, 59, 60, 62, 63, 65, 67, 69, 71, 73]
+shape_masks: "baselines/shapes/shape_masks"
+shape_gradcam_masks_parent: "baselines/shapes/gradcam"
+shape_gradcam_results_parent: "results/shapes/gradcam"
+shape_lime_masks_parent: "baselines/shapes/lime"
+shape_lime_results_parent: "results/shapes/lime"
+shapes_thresholds: "results/shapes/thresholds/"
+lime_shapes_results: "results/shapes/lime/"
+CBM_shapes_results: "results/shapes/cbm"
+
+GradCAM_shapes_results: "results/shapes/gradcam/"
+
+shapes_concepts: ['red circle', 'green circle', 'blue circle', 'red rectangle', 'green rectangle', 'blue rectangle', ]
+shapes_scenes : ['outcome']
+DEPICT_shapes_results: "results/shapes/DEPICT"
+cbm_shapes_results: "results/shapes/cbm"
+DEPICT_coco_unconstrained_model_results: "results/coco/unconstrained/DEPICT"
+coco_diffusion_model_path: "model_checkpoints/coco/diffusion_model/"
+coco_demo_perm_datasets_parent: "demo"
+coco_primary_model_checkpoint_paths: "best_primary_models.csv"
+coco_unconstrained_model_checkpoint_paths: "best_unconstrained_models.csv"
