@@ -6,16 +6,27 @@ Explanation methods for image classifiers have historically been limited to the 
 
 ## Demo 
 
-We first provide a full demo of the method in demo/demo_run.ipynb. Before running the demo, you should download the test images from 
+We first provide a full demo of the method. 
+
+
+### Dataset 
+
+Before running the demo, you should download the test images from 
 
 ```
 https://huggingface.co/datasets/sjabbour/depict_demo
 ```
 
+### Sript 
 
-, as well as code to recreate the results from the paper's experimence. 
+You can run the following jupyter notebook to recreate on of the rankings that DEPICT generates: 
 
-[7/2/2024]: We will be updating the entire codebase with all available code in the coming weeks. 
+```
+/demo/demo_run.ipynb
+```
+
+[8/9/2024]: We will be updating the entire codebase to recreate all experiments in the following months. Thanks for your patience!  
+
 
 ## Contact 
 
