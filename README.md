@@ -17,7 +17,7 @@ Before running the demo, you should download the test images from
 https://huggingface.co/datasets/sjabbour/depict_demo
 ```
 
-### Sript 
+### Script 
 
 You can run the following jupyter notebook to recreate on of the rankings that DEPICT generates: 
 
