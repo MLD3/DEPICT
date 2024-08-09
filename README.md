@@ -6,7 +6,14 @@ Explanation methods for image classifiers have historically been limited to the 
 
 ## Demo 
 
-We provide a full demo of the method, as well as code to recreate the results from the paper's experimence. 
+We first provide a full demo of the method in demo/demo_run.ipynb. Before running the demo, you should download the test images from 
+
+```
+https://huggingface.co/datasets/sjabbour/depict_demo
+```
+
+
+, as well as code to recreate the results from the paper's experimence. 
 
 [7/2/2024]: We will be updating the entire codebase with all available code in the coming weeks. 
 
