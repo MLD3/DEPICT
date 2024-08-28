@@ -1,0 +1,19 @@
+Click through the "coco_preprocessing.ipynb" notebook
+in order to extract the dataframe necessary to reproduce 
+results from the DEPICT paper. 
+
+
+####################
+annotations/
+    Folder created by get_coco.sh. Stores coco annotations json files.
+
+DEPICT_splits/
+    Contains csv's of the official DEPICT train/val/test image_id splits for reference
+
+images/
+    Folder created by get_coco.sh. Stores coco image files.
+
+scene_info/
+    Folder created by coco_preprocessing.ipynb. Stores csv info for scene labels generated with MIT Places CNN.
+
+
